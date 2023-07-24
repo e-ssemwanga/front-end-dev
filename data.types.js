@@ -7,7 +7,7 @@ const isLogged = false;
 //undefined
 let day;
 console.log(day)
-//null
+//null value
 let minute = null;
 //symbol
 const names = Symbol();
